@@ -4,7 +4,7 @@ import CardList from './Componets/CardList';
 function App() {
   return (
     <div className="App">
-      <h1> Restaurant DIANA</h1>
+      <h1> DIANA</h1>
       <CardList />
     </div>
   );
