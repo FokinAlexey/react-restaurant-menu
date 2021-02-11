@@ -1,0 +1,38 @@
+.card, .nocard {
+    display: flex;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.card img {
+    width: 180px;
+    height: 170px;
+    margin: 10px;
+    border-radius: 50%;
+}
+.nocard img {
+    width: 180px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+.cardInfo {
+    width: 50%;
+    margin: 20px;
+}
+
+.cardInfo img{
+    width: 50px;
+    height: 50px;
+}
+
+.star img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+}
